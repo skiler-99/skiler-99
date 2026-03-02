@@ -24,32 +24,36 @@
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Programming
+### 👨‍💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### ⚙️ Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Pygame](https://img.shields.io/badge/Pygame-00AA00?style=for-the-badge)
+### 📊 Data & Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
-
 ## 🎮 Featured Project
 
-### 🐦 Flappy Bird Python Game
+### 📊 Data Analytics Portfolio (In Progress)
+* Building an end-to-end data pipeline using **Python (Pandas), SQL, and Power BI**
+* Structuring and cleaning raw global game sales data
+* Designing interactive dashboards for industry insights
 
+### 🕹️ Legacy Projects (Python Logic)
+* **Flappy Bird Python Game:** Built using Python & Pygame with score tracking and modular asset management.
 * Built using **Python & Pygame**
 * Score tracking system
 * Database leaderboard support
 * Modular asset management
 
-🔗 Repository:
-https://github.com/skiler-99/Legacy-Projects
+🔗 Repository: https://github.com/skiler-99/Legacy-Projects
 
 ---
 
