@@ -23,18 +23,18 @@
 
 🛠 Tech Stack
 
-👨‍💻 Programming
+## 🛠 Tech Stack
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-⚙️ Tools & Technologies
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"Pygame" (https://img.shields.io/badge/Pygame-00AA00?style=for-the-badge)
+### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pygame](https://img.shields.io/badge/Pygame-00AA00?style=for-the-badge)
 
 ---
 
@@ -76,8 +76,8 @@ https://github.com/skiler-99/Legacy-Projects
 
 🌐 Connect With Me
 
-📧 Email: yourmail@example.com
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+📧 Email: skilerworlds@gmail.com
+💼 LinkedIn: www.linkedin.com/in/sahil-tiwari-71760135a 
 
 ---
 
