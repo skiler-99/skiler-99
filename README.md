@@ -19,7 +19,10 @@
 * Python Libraries (NumPy, Pandas, Matplotlib)
 * AI & Automation Systems
 * Backend Development Concepts
-
+* **Data Analysis:** Python Libraries (Pandas, NumPy, Matplotlib)
+* **Database Management:** Advanced SQL querying & relational databases
+* **Business Intelligence:** Data Visualization with Power BI & DAX
+* **Core Logic:** Data Structures & Algorithms (Arrays & Strings)
 ---
 
 ## 🛠 Tech Stack
@@ -80,6 +83,10 @@
 * ✅ Strengthen Data Structures & Algorithms
 * ✅ Develop intelligent automation systems
 * ✅ Contribute to open-source projects
+* ✅ Master Advanced SQL & earn HackerRank Gold Badge
+* ✅ Build interactive Business Intelligence dashboards
+* ✅ Strengthen Data Structures & Algorithms (DSA) core
+* ✅ Develop end-to-end Python data pipelines
 
 ---
 
