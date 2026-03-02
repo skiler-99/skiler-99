@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sahil Tiwari</h1>
 <h3 align="center">BCA Student | Python Developer | AI & Game Development Enthusiast</h3>---
 
@@ -20,9 +19,6 @@
 - Backend Development Concepts
 
 ---
-
-🛠 Tech Stack
-
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming
@@ -38,9 +34,9 @@
 
 ---
 
-🎮 Featured Projects
+#🎮 Featured Projects
 
-🐦 Flappy Bird Python Game
+##🐦 Flappy Bird Python Game
 
 - Built using Python & Pygame
 - Score tracking system
@@ -52,20 +48,20 @@ https://github.com/skiler-99/Legacy-Projects
 
 ---
 
-📊 GitHub Statistics
+##📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=skiler-99&show_icons=true&theme=tokyonight" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skiler-99&layout=compact&theme=tokyonight" height="170"/>
 </p>---
 
-🔥 Contribution Streak
+##🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=skiler-99&theme=tokyonight"/>
 </p>---
 
-🌱 Goals for 2026
+##🌱 Goals for 2026
 
 - ✅ Build AI-based real-world projects
 - ✅ Strengthen Data Structures & Algorithms
@@ -74,7 +70,7 @@ https://github.com/skiler-99/Legacy-Projects
 
 ---
 
-🌐 Connect With Me
+##🌐 Connect With Me
 
 📧 Email: skilerworlds@gmail.com
 💼 LinkedIn: www.linkedin.com/in/sahil-tiwari-71760135a 
