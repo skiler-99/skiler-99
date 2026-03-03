@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skiler-99&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skiler-99&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skiler-99&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
 
 ---
