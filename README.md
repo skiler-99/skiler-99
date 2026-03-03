@@ -19,7 +19,6 @@
 * Python Libraries (NumPy, Pandas, Matplotlib)
 * AI & Automation Systems
 * Backend Development Concepts
-* **Data Analysis:** Python Libraries (Pandas, NumPy, Matplotlib)
 * **Database Management:** Advanced SQL querying & relational databases
 * **Business Intelligence:** Data Visualization with Power BI & DAX
 * **Core Logic:** Data Structures & Algorithms (Arrays & Strings)
