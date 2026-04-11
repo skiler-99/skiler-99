@@ -1,27 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sahil Tiwari</h1>
-<h3 align="center">BCA Student | Python Developer | AI & Game Development Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Skiler Worlds</h1>
+<h3 align="center">BCA Student | Python Developer | Data Analyst</h3>
 
 ---
 
 ## 🚀 About Me
 
 🎓 Bachelor of Computer Applications (BCA) Student
-💻 Passionate about Software Development, AI, and Automation
+💻 Passionate about Software Development, AI, ML, and Automation
 🎮 Game Developer exploring Python & Pygame
 🤖 Interested in AI Systems, IoT & Smart Automation
 📈 Continuously learning and building real-world projects
 
----
-
-## 🧠 Currently Learning
-
-* Machine Learning & Data Analysis
-* Python Libraries (NumPy, Pandas, Matplotlib)
-* AI & Automation Systems
-* Backend Development Concepts
-* **Database Management:** Advanced SQL querying & relational databases
-* **Business Intelligence:** Data Visualization with Power BI & DAX
-* **Core Logic:** Data Structures & Algorithms (Arrays & Strings)
 ---
 
 ## 🛠 Tech Stack
@@ -69,19 +58,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=skiler-99&theme=tokyonight"/>
 </p>
-
----
-
-## 🌱 Goals for 2026
-
-* ✅ Build AI-based real-world projects
-* ✅ Strengthen Data Structures & Algorithms
-* ✅ Develop intelligent automation systems
-* ✅ Contribute to open-source projects
-* ✅ Master Advanced SQL & earn HackerRank Gold Badge
-* ✅ Build interactive Business Intelligence dashboards
-* ✅ Strengthen Data Structures & Algorithms (DSA) core
-* ✅ Develop end-to-end Python data pipelines
 
 ---
 
