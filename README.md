@@ -17,12 +17,12 @@
 
 ### 👨‍💻 Programming & Scripting
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c++,sql"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql"/>
 </p>
 
 ### 📊 Data & Tools
 <p>
-  <img src="http://skillicons.dev/icons?i=powerbi,pandas,excel,git,github"
+  <img src="http://skillicons.dev/icons?i=power bi,pandas,numpy,msexcel,git,github"
 </p>
 
 ### 📃 Formates
