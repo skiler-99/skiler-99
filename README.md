@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Programming & Scripting
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,java,python,mongodb,mysql,linux,figma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c++,sql"/>
 </p>
 
 ### 📊 Data & Tools
