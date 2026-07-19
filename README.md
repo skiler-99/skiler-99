@@ -21,11 +21,9 @@
 </p>
 
 ### 📊 Data & Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=powerbi, pandas, numpy, excel, git, github, docker, mongodb, maven, linux"/>
+</p>
 
 ### 📃 Formates
 
