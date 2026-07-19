@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Programming & Scripting
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,maven"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql"/>
 </p>
 
 ### 📊 Data & Tools
@@ -38,12 +38,12 @@
 * Structuring and cleaning raw global game sales data
 * Designing interactive dashboards for industry insights
 
-### 🕹️ Legacy Projects (Python Logic)
+### 🕹️ Legacy Projects (Python & Java Logic)
+* A repository consisting mini practice projects
 * **Flappy Bird Python Game:** Built using Python & Pygame with score tracking and modular asset management.
-* Built using **Python & Pygame**
 * Score tracking system
 * Database leaderboard support
-* Modular asset management
+* Modular asset managemen
 
 🔗 Repository: https://github.com/skiler-99/Legacy-Projects
 
