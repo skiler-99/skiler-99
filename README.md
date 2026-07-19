@@ -22,7 +22,7 @@
 
 ### 📊 Data & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=powerbi, pandas, numpy, excel, git, github, docker, mongodb, maven, linux"/>
+<img src="https://skillicons.dev/icons?i=powerbi,pandas,numpy,excel,git,github,docker,mongodb,maven,linux"/>
 </p>
 
 ### 📃 Formates
