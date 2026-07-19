@@ -20,13 +20,11 @@
 <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql"/>
 </p>
 
-### 📊 Data & Tools
+### ⚙️ Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,maven,linux,powerbi,pandas,numpy,excel,"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,maven,linux,figma,vscode,fluter,dart"/>
 </p>
-
-### 📃 Formates
 
 
 ---
