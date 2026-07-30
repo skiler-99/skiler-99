@@ -1,5 +1,5 @@
 <!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0052D4,50:4364F7,100:6FB1FC&height=250&section=header&text=Skiler%20Worlds&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Analyst&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0b7dc0&height=250&section=header&text=Sahil%20Tiwari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Analyst&descAlignY=55"/>
 
 <div align="center">
 
@@ -84,4 +84,4 @@ Hey, I'm Sahil Kumar Tiwari a passionate Software Developer and Data Analyst bri
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0b7dc0&height=120&section=footer"/>
