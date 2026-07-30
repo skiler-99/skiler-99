@@ -54,16 +54,10 @@ Hey, I'm Sahil Kumar Tiwari a passionate Software Developer and Data Analyst bri
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=skiler-99&show_icons=true&bg_color=0D1117&title_color=4364F7&text_color=c9d1d9&icon_color=4364F7&hide_border=true&count_private=true" alt="Sahil's GitHub Stats" width="48%" />
   
   <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skiler-99&background=0D1117&stroke=0D1117&ring=4364F7&fire=4364F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4364F7&sideLabels=4364F7&dates=c9d1d9&hide_border=true" alt="Sahil's Contribution Streak" width="48%" />
 
-  <br><br>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skiler-99&layout=compact&bg_color=0D1117&title_color=4364F7&text_color=c9d1d9&hide_border=true" alt="Sahil's Top Languages" width="50%" />
 
 </div>
 
