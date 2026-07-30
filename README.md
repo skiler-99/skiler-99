@@ -48,9 +48,8 @@
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=skiler-99&theme=tokyonight"/>
-</p>
+[![skiler-99's GitHub Stats](https://vercel.app)](https://github.com)
+
 
 ---
 
