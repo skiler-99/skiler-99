@@ -1,5 +1,5 @@
 <!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0052D4,50:4364F7,100:6FB1FC&height=250&section=header&text=Sahil%20Tiwari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Analyst&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0052D4,50:4364F7,100:6FB1FC&height=250&section=header&text=Skiler%20Worlds&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Analyst&descAlignY=55"/>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-A passionate Software Developer and Data Analyst bridging the gap between raw data and actionable software solutions. With a strong foundation in Object-Oriented Programming and database management, I specialize in building efficient applications and structured data pipelines.
+Hey, I'm Sahil Kumar Tiwari a passionate Software Developer and Data Analyst bridging the gap between raw data and actionable software solutions. With a strong foundation in Object-Oriented Programming and database management, I specialize in building efficient applications and structured data pipelines.
 
 - 🎓 **Academics:** 4th-Semester BCA Student at LNCT University | Advanced Diploma in Computer Applications
 - 💻 **Interests:** Machine Learning, Data Analytics, Web and App Development.
