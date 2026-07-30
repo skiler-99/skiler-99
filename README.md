@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I am a 4th-semester Bachelor of Computer Applications (BCA) student at LNCT University maintaining a 9.0 CGPA, and I also hold an Advanced Diploma in Computer Applications. I love solving problems through code and am deeply interested in Artificial Intelligence, Machine Learning, Data Analytics, and Game Development. My current focus is mastering Data Structures and Algorithms, building robust Python projects, and honing my Power BI and SQL skills. 
+I am a 4th-semester Bachelor of Computer Applications (BCA) student at LNCT University, and I also hold an Advanced Diploma in Computer Applications. I love solving problems through code and am deeply interested in Artificial Intelligence, Machine Learning, Data Analytics, and Game Development. My current focus is mastering Data Structures and Algorithms, building robust Python projects, and honing my Power BI and SQL skills. 
 
 ---
 
