@@ -28,7 +28,7 @@ Hey, I'm Sahil Kumar Tiwari a passionate Software Developer and Data Analyst bri
 <div align="center">
 
 ### Languages & Databases
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,mysql,mongodb,bash,html,css,js" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,mongodb,bash,html,css,js" alt="Programming Languages" />
 
 ### Frameworks, Tools & Version Control
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,maven,figma,vscode,flutter,dart" alt="Tools and Frameworks" />
