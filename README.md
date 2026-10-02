@@ -73,9 +73,6 @@ Hey, I'm Sahil Kumar Tiwari a passionate Software Developer and Data Analyst bri
 <a href="mailto:skilerworlds@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/skiler-99" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 <br><br>
 <i>"Transforming logic into scalable solutions."</i>
